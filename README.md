@@ -11,3 +11,4 @@ for downloading the libraries:
 pip install deep_translator
 pip install speechrecognition
 pip install futures
+pip install googletrans
