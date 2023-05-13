@@ -5,6 +5,7 @@ Nothing special, just saving for myself this project that I need to change and i
 
 Just a reminder that the SpeechRecognition library requires PyAudio, which needs to be downloaded from this website if you're using Python 3.7 or higher:
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+After downloading the pyaudio for your Python version, just do pip install archive_name.whl
 
 for downloading the libraries:
 pip install deep_translator
